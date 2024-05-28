@@ -17,14 +17,14 @@ This Python script implements the Diffie-Hellman key exchange algorithm, a metho
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/diffie-hellman-key-exchange.git
-    cd diffie-hellman-key-exchange
+    git clone https://github.com/heng907/Cryptography-Engineering.git
+    cd DiffieHellman.py
     ```
 
 2. **Run the script:**
 
     ```sh
-    python diffie_hellman.py
+    python3 DiffieHellman.py
     ```
 
 ## Example
